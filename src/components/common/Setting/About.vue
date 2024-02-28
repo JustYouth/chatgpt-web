@@ -52,7 +52,7 @@ onMounted(() => {
             href="https://hautwall.cn"
             target="_blank"
           >
-            GitHub
+            Hautwall
           </a>
           {{ $t("setting.freeMIT") }}
         </p>
