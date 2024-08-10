@@ -342,18 +342,5 @@ Thanks to everyone who has contributed!
 
 ## Sponsors
 
-If you find this project helpful and can afford it, you can give me a little support. Anyway, thanks for your support~
-
-<div style="display: flex; gap: 20px;">
-	<div style="text-align: center">
-		<img style="max-width: 100%" src="./docs/wechat.png" alt="WeChat" />
-		<p>WeChat Pay</p>
-	</div>
-	<div style="text-align: center">
-		<img style="max-width: 100%" src="./docs/alipay.png" alt="Alipay" />
-		<p>Alipay</p>
-	</div>
-</div>
-
 ## License
 MIT © [ChenZhaoYu]
